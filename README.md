@@ -1,1 +1,2 @@
 # ODR
+It is a obstacle detection robot made using Arduino Uno R3 and motor drive circuit on a wooden board.The robot has 360 degree rotation options and has a ultrasonic sensor fitted at the starting which triggers a light to the obstacle and detects it.If the obstacle distance is less than the predefined value,it reverses and takes a turn and moves forward.The supply is taken from a 24V rechargeable battery.
